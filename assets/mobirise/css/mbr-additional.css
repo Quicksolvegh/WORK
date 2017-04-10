@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+#header4-0 H1 {
+  color: #000000;
+}
+#menu-1 .navbar-toggler {
+  color: #000000;
+}
+#menu-1 .navbar-brand STRONG {
+  font-family: 'Playfair Display', sans-serif;
+}
+#footer1-3 P {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+
+
+#menu-4 .navbar-toggler {
+  color: #000000;
+}
+#menu-4 .navbar-brand STRONG {
+  font-family: 'Playfair Display', sans-serif;
+}
+#footer1-5 P {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+#content5-6 P {
+  text-align: center;
+}
+
+
+#menu-8 .navbar-toggler {
+  color: #000000;
+}
+#menu-8 .navbar-brand STRONG {
+  font-family: 'Playfair Display', sans-serif;
+}
+#footer1-9 P {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+
+
+#menu-c .navbar-toggler {
+  color: #000000;
+}
+#menu-c .navbar-brand STRONG {
+  font-family: 'Playfair Display', sans-serif;
+}
+#footer1-d P {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
